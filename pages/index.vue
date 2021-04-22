@@ -9,6 +9,7 @@
             <h5 class="card-title">{{ nota.titulo }}</h5>
             <p v-if="nota.descricao" class="card-text">
               {{ nota.descricao }}
+              teste
             </p>
           </div>
         </div>
